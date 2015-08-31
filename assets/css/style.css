@@ -47,6 +47,10 @@ h3 {
 
 }
 
+ul {
+  text-align: left;
+}
+
 /*
  * A better looking default horizontal rule
  */
