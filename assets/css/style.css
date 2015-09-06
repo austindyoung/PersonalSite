@@ -35,6 +35,21 @@
     text-shadow: none;
 }
 
+.wrap {
+  margin-left: -380px;
+
+}
+
+.pure-math {
+  top: 35px;
+}
+
+
+.gallery {
+  margin-bottom: 20px;
+}
+
+
 #works {
   /*background: url(../img/topology_background.png) no-repeat center top;*/
 }
@@ -49,6 +64,13 @@ h3 {
 
 ul {
   text-align: left;
+}
+
+.last {
+
+    margin: auto;
+    padding: 10px;
+
 }
 
 /*
